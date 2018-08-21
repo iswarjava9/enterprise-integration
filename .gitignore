@@ -1,0 +1,9 @@
+**/.settings/
+**/target/
+**/.classpath
+**/.project
+**/*.bak
+**/.metadata
+**/.recommenders
+**/RemoteSystemsTempFiles
+**/.springbeans

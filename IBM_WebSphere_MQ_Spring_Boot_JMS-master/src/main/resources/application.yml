@@ -1,0 +1,9 @@
+project:
+  mq:
+    host: localhost
+    port: 1415
+    queue-manager: IPQM3
+    channel: mychannel.server   # SVRCONN
+    username: mquser1
+    password: mquser1
+    receive-timeout: 2000
